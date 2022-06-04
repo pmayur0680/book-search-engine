@@ -27,7 +27,7 @@ This application uses Apollo Server to use GraphQL queries and mutations to fetc
 ## Usage
 
 Code Repo: https://github.com/pmayur0680/book-search-engine<br>
-Live Site: https://booksearchengine22.herokuapp.com/
+Live Site: https://agile-wave-34839.herokuapp.com/
 
 ![Alt text](https://user-images.githubusercontent.com/101486770/171980722-63d142ca-45f1-4413-9716-80e1ffbb4d2b.png?raw=true "Book Search Engine")
 
